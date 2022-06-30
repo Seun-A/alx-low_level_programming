@@ -5,7 +5,7 @@
 
 | Directories | Description | 
 --- | ---
-[0x00-hello_world](./0x00-shell_basics) | C: Hello, World (C Basics)
+[0x00-hello_world](./0x00-hello_world) | C: Hello, World (C Basics)
 
 # 
 <br>
