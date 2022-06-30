@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints the phrase 
+ * main - Prints the phrase
  * Return: 0
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
